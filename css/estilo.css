@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+body {
+
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    }
+
+footer{
+    margin-top: 200px;
+}
+#contenedorImagen img{
+width: 360px;
+height: 242px;
+margin-left: 20px;
+}
